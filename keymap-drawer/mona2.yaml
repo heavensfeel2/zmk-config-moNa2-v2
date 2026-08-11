@@ -38,7 +38,7 @@ layers:
   - LEFT WIN
   - ''
   - NUM
-  - {t: Sft+SPACE, h: NUM+SYMBOL}
+  - {t: SPACE, h: NUM+SYMBOL}
   - {t: LCTRL, h: DELETE}
   - BACKSPACE
   - {t: ENTER, h: ARROW}
