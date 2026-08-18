@@ -39,7 +39,7 @@ layers:
   - ''
   - {t: LEFT SHIFT, h: NUM}
   - {t: SPACE, h: NUM+SYMBOL}
-  - {t: LCTRL, h: DELETE}
+  - {t: DELETE, h: RCTRL}
   - BACKSPACE
   - {t: ENTER, h: ARROW}
   - {t: '?', h: BT}
