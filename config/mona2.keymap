@@ -124,7 +124,7 @@
         ARROW {
             bindings = <
 &trans  &kp HOME        &kp UP_ARROW    &kp LEFT_PARENTHESIS  &kp LESS_THAN                                   &kp GREATER_THAN   &kp RIGHT_PARENTHESIS  &kp UP_ARROW    &kp END          &kp ESCAPE
-&trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW       &kp PLUS                         &trans         &kp EQUAL          &kp LEFT_ARROW         &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans
+&trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW       &kp PLUS                         &trans         &kp EQUAL          &kp LEFT_ARROW         &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp SEMICOLON
 &trans  &trans          &kp COLON       &kp SQT               &kp LEFT_BRACKET  &kp PAGE_UP    &kp PAGE_DOWN  &kp RIGHT_BRACKET  &kp DOUBLE_QUOTES      &kp SEMICOLON   &trans           &trans
 &trans  &trans          &trans          &trans                &trans            &trans         &trans         &trans                                                                     &trans
             >;
